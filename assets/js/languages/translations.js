@@ -30,8 +30,8 @@ const translations = {
     es: '¡Hola 👨🏻‍💻!',
   },
   homeDescription: {
-    en: "I'm Alan, a full stack designer, passionate about design, technology, and development.",
-    es: 'Soy Alan, diseñador full stack, apasionado por el diseño, la tecnología y el desarrollo.',
+    en: "I'm william, a full stack designer, passionate about design, technology, and development.",
+    es: 'Soy william, diseñador full stack, apasionado por el diseño, la tecnología y el desarrollo.',
   },
   /* <-- Home Buttons --> */
   aboutButton: {

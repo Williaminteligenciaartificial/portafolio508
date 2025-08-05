@@ -3,10 +3,6 @@
  * Orchestrates the initialization and management of the portfolio website
  */
 
-// ---------------------------
-// MODULE IMPORTS
-// ---------------------------
-// UI Components
 import loader from './helpers/loader.js';
 import activeMenu from './helpers/activeMenu.js';
 import { cardCarousel } from './helpers/cardCarousel.js';
