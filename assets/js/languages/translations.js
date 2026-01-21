@@ -210,8 +210,8 @@ designsTitle: {
   },
 
   footerDescription: {
-    en: 'Made with ❤️. Thanks to my tutor Alejandra Olazagasti',
-    es: 'Hecho con ❤️. Gracias a mi tutora Alejandra Olazagasti',
+    en: 'Made with  William Suarez',
+    es: 'Hecho con  William Suarez',
   },
 
   footerCopyright: {
